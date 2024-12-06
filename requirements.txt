@@ -1,0 +1,10 @@
+﻿Flask
+tensorflow
+joblib
+scikit-learn
+opencv-python
+pandas
+numpy
+requests
+pillow
+gunicorn
